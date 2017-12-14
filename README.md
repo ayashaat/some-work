@@ -1,2 +1,3 @@
-# some-work
-a simple work in first coding of front-end , My First repository on GitHub
+Aya Ibrahim Shaat 
+Beginner front-end Developer 
+Software Engineering Alazhar Un. Gaza
